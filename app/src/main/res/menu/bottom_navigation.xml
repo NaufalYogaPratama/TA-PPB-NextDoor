@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemhome"
+        android:icon="@drawable/home_selector"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/itemprogres"
+        android:icon="@drawable/history_selector"
+        android:title="History" />
+
+    <item
+        android:id="@+id/itempost"
+        android:icon="@drawable/post_selector"
+        android:title="Post" />
+
+    <item
+        android:id="@+id/itemnotif"
+        android:icon="@drawable/notif_selector"
+        android:title="Notification" />
+
+    <item
+        android:id="@+id/itemprofile"
+        android:icon="@drawable/profile_selector"
+        android:title="Profile" />
+</menu>
+
